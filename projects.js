@@ -10,6 +10,7 @@ buttons.forEach(button => {
 
 
 // JS for Project-2
+// this is comment
 const issuedBooks = [];
  
 function issueBook() {
